@@ -14,7 +14,7 @@ I am IT professional with over 15 years of experience in **data analysis**, **bu
 Currently, I work as a freelancer, leveraging my knowledge in **backend development** and exploring trending topics like **cryptocurrencies** and **investment applications**.
 
 ### 🔑 Key Highlights:
-- Developed and maintained high-performance ETL processes for companies like Coca-Cola Brasil and Grupo Guanabara.
+- Developed and maintained high-performance ETL processes.
 - Specialized in **data migration**, reducing costs and increasing efficiency by over 30%.
 - Freelancer developer, creating **investment portfolio apps** and collaborating on data engineering and analytics projects.
 - Adept in **data visualization**, using tools like **Power BI** and **Tableau** to turn raw data into valuable insights.

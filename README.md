@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a results-driven IT professional with over 15 years of experience in **data analysis**, **business intelligence**, and **database management**. My expertise spans various platforms and tools, such as **Oracle**, **SQL Server**, **MySQL**, **AWS Redshift**, and **PostgreSQL**, with a strong focus on optimizing systems, creating efficient pipelines, and uncovering actionable insights from complex datasets.
+I am IT professional with over 15 years of experience in **data analysis**, **business intelligence**, and **database management**. My expertise spans various platforms and tools, such as **Oracle**, **SQL Server**, **MySQL**, **AWS Redshift**, and **PostgreSQL**, with a strong focus on optimizing systems, creating efficient pipelines, and uncovering actionable insights from complex datasets.
 
 Currently, I work as a freelancer, leveraging my knowledge in **backend development** and exploring trending topics like **cryptocurrencies** and **investment applications**.
 

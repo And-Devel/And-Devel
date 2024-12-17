@@ -50,8 +50,7 @@ My GitHub is a space to:
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Anderson Reis](https://linkedin.com/in/anderson-r-11721823)  
-- **Email**: [andersonbelmont@hotmail.com](mailto:andersonbelmont@hotmail.com)
+- **LinkedIn**: [Anderson Reis](https://linkedin.com/in/anderson-r-11721823)
 
 <!---
 And-Devel/And-Devel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
